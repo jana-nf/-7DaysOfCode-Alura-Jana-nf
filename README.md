@@ -78,3 +78,111 @@ if (COMPARAR O numeroDez e a stringDez) {
 
 
 
+
+## Dia 2/7:
+
+Ao se cadastrar em um site e, logo em seguida, ao fazer o login, ele já te chama pelo seu nome? É esse o desafio! 
+
+Você pode começar de maneira bem simples, pois o importante é entender como capturar e armazenar valores dentro de variáveis. 
+
+Variáveis são blocos básicos de construção de qualquer sistema e são essenciais para processar qualquer tipo de informação,
+seja ela de uma pessoa logada no sistema ou mesmo para exibir detalhes de produtos em um catálogo de e-commerce.
+
+
+Por isso, vamos desenvolver um programa simulando um desses sites. 
+
+
+Ele deve pedir para o usuário responder 3 perguntas:
+
+- Qual é o seu nome?
+
+- Quantos anos você temm?
+
+- Qual linguagem de programação você está estudando?
+
+
+
+À medida que as perguntas forem sendo feitas, o usuário que estiver usando o programa deve responder cada uma delas.
+
+No final o sistema vai exibir a mensagem:
+
+
+
+"Olá [nome], você tem [idade] anos e já está aprendendo [linguagem]!"
+
+
+
+Nota: Cada informação entre [] é uma das respostas dadas pela pessoa.
+
+
+### Exercício Opcional
+
+Se você quiser aprofundar, segue mais um exercício.
+
+Mas ele é 100% opcional.
+
+
+Você vai complementar o código para que, depois de exibir a mensagem anterior, o programa pergunte:
+
+
+Você gosta de estudar [linguagem]? 
+
+Responda com o número 1 para SIM ou 2 para NÃO.
+
+
+
+E, dependendo da resposta, ele deve mostrar uma das seguintes mensagens:
+
+
+1 > Muito bom! Continue estudando e você terá muito sucesso.
+
+2 > Ahh que pena... Já tentou aprender outras linguagens?
+
+
+
+### DICA
+
+Você pode adicionar quantas perguntas quiser, e pode aproveitar as respostas dos usuários na mensagem que será exibida!
+
+Para imprimir e receber valores, você pode tanto usar ### console.log, prompt e alert, quando usar HTML e CSS.
+
+
+Você pode usar a estrutura condicional if para resolver o Exercício Opcional:
+
+
+if (resposta == 1){
+
+  // dê a resposta positiva
+
+}
+
+if (resposta == 2){
+
+  // dê a resposta negativa
+
+}
+
+
+
+
+EXTRA
+
+
+Tanto o alert()
+
+quanto o prompt()
+
+são usados para criar caixas de diálogo e interagir com o usuário, mas eles são diferentes entre si.
+
+
+
+O alert() é usado para mostrar uma mensagem simples ao usuário.
+
+
+Ex: 
+
+alert("Olá, pessoal!");
+
+
+Já o prompt() precisa que o usuário insira algum valor, que você poderá manipular.
+
