@@ -211,3 +211,31 @@ Pois bem, o desafio de hoje é criar os destinos possíveis de um jogo, em que o
 Vale lembrar que é importante saber como utilizar as estruturas condicionais e loops em JavaScript.
 
 E, você poderá usar console.log, prompt e alert para desenvolver o jogo.
+
+
+## Dia 4/7
+
+Vamos continuar jogando?
+
+
+QUe tal adivinhar o número que seu amigo ou amiga estava pensando? 
+
+
+Primeiro, precisamos criar um programa que comece com um valor específico pré-definido entre 0 a 10 para o número que você vai adivinhar (7, por exemplo).
+
+
+Em seguida, o programa vai perguntar para você qual o valor que você deseja chutar e, caso você acerte, ele irá te parabenizar.
+Caso erre, ele vai te dar mais 2 tentativas.
+
+No fim, caso você não acerte nenhuma vez, ele vai imprimir qual era o número inicial.
+
+Depois que o programinha estiver funcionando, tente usar um número randômico em vez de um número pré-definido.
+
+## DICA
+
+Pense muito bem em qual estrutura de repetição você irá utilizar para fazer o seu programa ser executado até o momento em que as 3 tentativas acabem, ou até a pessoa acertar o número.
+
+Lembre-se que você pode sempre personalizar o seu programa da forma que quiser.
+
+
+
