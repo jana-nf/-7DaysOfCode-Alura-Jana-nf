@@ -92,3 +92,4 @@ while (operacao !== 'sair') {
 //Lembre-se também de que, além do if e else, também temos o switch, 
 //muito interessante de se utilizar em casos como esse, de múltipla escolha.
 
+
